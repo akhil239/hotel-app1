@@ -1,7 +1,7 @@
 [app]
 
 # (str) Title of your application
-title = hotel app
+title = hotel App
 
 # (str) Package name
 package.name = myapp
